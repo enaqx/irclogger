@@ -10,8 +10,8 @@
     "test": "mocha"
   },
   "dependencies": {
-    "express": "^4.9.8",
-    "irc": "^0.3.7"
+    "irc": "^0.3.7",
+    "express": "^4.9.8"
   },
   "devDependencies": {
     "mocha": "^1.21.5"
