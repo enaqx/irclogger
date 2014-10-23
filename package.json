@@ -10,7 +10,6 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "irc": "^0.3.7",
-    "express": "^4.9.8"
+    "irc": "^0.3.7"
   }
 }
